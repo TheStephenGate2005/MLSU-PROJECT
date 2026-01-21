@@ -1,6 +1,6 @@
 Overview
 
-My Little Stephen Universe (MLSU) is an experimental crossover / concept project created by Stephen T. Flint (Rinty SkyHusky / FurryManforme). Volume 0 represents an early, unfinished stage of the project and serves primarily as a concept archive rather than a completed story or product.
+My Little Stephen Universe (MLSU) is an experimental crossover / concept project created by Stephen T. Flint (Rinty SkyCoyote). Volume 0 represents an early, unfinished stage of the project and serves primarily as a concept archive rather than a completed story or product.
 
 This repository exists to:
 
@@ -80,4 +80,4 @@ Shared under a Creative Commons Attribution-NonCommercial-NoDerivatives (CC BY-N
 
 Author
 
-Stephen T. FlintAlso known as Rinty SkyHusky / FurryManforme
+Stephen T. FlintAlso known as Rinty SkyCoyote
