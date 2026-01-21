@@ -80,4 +80,5 @@ Shared under a Creative Commons Attribution-NonCommercial-NoDerivatives (CC BY-N
 
 Author
 
-Stephen T. FlintAlso known as Rinty SkyCoyote
+Stephen T. Flint
+Also known as Rinty SkyCoyote
